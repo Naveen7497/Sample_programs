@@ -1,6 +1,8 @@
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 # This software may be used and distributed according to the terms of the Llama 2 Community License Agreement.
 
+# example_chat_completion.py
+
 from typing import List, Optional
 
 import fire
@@ -115,4 +117,5 @@ If a question does not make any sense, or is not factually coherent, explain why
 
 
 if __name__ == "__main__":
+
     fire.Fire(main)
