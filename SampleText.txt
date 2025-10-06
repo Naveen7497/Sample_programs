@@ -1,0 +1,1 @@
+PATs are the simplest way to authenticate non-interactive scripts. Create one in GitHub: Settings → Developer settings → Personal access tokens
