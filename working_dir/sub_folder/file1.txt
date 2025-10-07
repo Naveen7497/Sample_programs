@@ -1,0 +1,9 @@
+Python Flask is a lightweight web framework used to build web applications and APIs. It’s designed to be simple and easy to use, allowing developers to create web apps quickly without too much boilerplate code.
+
+Key points about Flask:
+
+Microframework: Flask provides the core tools needed for web development (like routing URLs to Python functions), but doesn’t include extra features like database abstraction or form validation by default. You add these as needed with extensions.
+
+Flexible and minimal: Gives you freedom to structure your app however you want.
+
+Uses Werkzeug and Jinja2: Werkzeug is a WSGI toolkit for handling requests and responses, and Jinja2 is a templating engine to create HTML.
